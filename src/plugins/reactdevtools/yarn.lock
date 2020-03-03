@@ -74,10 +74,10 @@ next-tick@^1.0.0:
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
   integrity sha1-yobR/ogoFpsBICCOPchCS524NCw=
 
-react-devtools-core@^4.0.6:
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-4.0.6.tgz#681c7349db618856d6df7d31a6a49edee9d9e428"
-  integrity sha512-IhAndVGmV74Bio1BRrlbsonH6bX3XFHgz2uixJFlNjg/Rm264mBveIMwM6+rV3yObSKVnggXRMtJuyWoPk2Smw==
+react-devtools-core@^4.5.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-4.5.0.tgz#077a931f84f79a0669517ea9bc36c34ca426c24d"
+  integrity sha512-nO+lcvGsWiIRKSs0s0uyT19IgJYd27kCB48In/5CiSoLpnWsA3nCv3J8R/J0UDIGt6hliq7R6IHJTQ06/4Fbzg==
   dependencies:
     es6-symbol "^3"
     shell-quote "^1.6.1"
